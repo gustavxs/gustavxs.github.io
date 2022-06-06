@@ -1,0 +1,271 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+hr {
+    background-color: rgba(90, 45, 130);
+    height:2px; 
+    
+    }
+#imgcabecalho {
+    max-width: 80px;
+}
+    
+.cabecalhohome {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    background-color: rgba(90, 45, 130);
+    padding-left: 30px ;
+    padding-right: 20px;
+}
+    
+a:hover {
+        color: rgb(184, 134, 218);
+}
+    
+a {
+        text-decoration: none;
+        color: white;
+}
+    
+.linkscabecalho {
+    display: flex;
+    gap: 40px;
+    font-size: 19px;
+    padding-left: 400px;
+    color:rgb(255, 255, 255);
+}
+
+main {
+padding-left: 10px;
+padding-right: 10px;
+border-top: 2px solid rgb(0, 0, 0);
+border-bottom: 2px solid rgb(0, 0, 0);
+}
+#titulo {
+    color: rgb(0, 0, 0);
+    padding-left: 20px;
+    font-family: league 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 40px;
+    padding-top: 80px;
+    }
+
+#locais { 
+display: flex;
+padding-top: 160px;
+line-height: 40px;
+font-size: 20px;
+justify-content: space-between;
+padding-left: 20px;
+padding-right: 23px;
+padding-bottom: 32px;
+}
+
+
+#locais2 { 
+    display: flex;
+    padding-top: 50px;
+    line-height: 40px;
+    font-size: 20px;
+    justify-content: space-between;
+    padding-left: 20px;
+    padding-right: 30px;
+    padding-bottom: 40px;
+}
+    
+#locais3 { 
+    display: flex;
+    padding-top: 50px;
+    line-height: 40px;
+    font-size: 20px;
+    justify-content: space-between;
+    padding-left: 20px;
+    padding-right: 80px;
+    padding-bottom: 40px;
+}
+
+#locais4 { 
+    display: flex;
+    padding-top: 50px;
+    line-height: 40px;
+    font-size: 20px;
+    justify-content: space-between;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-bottom: 40px;
+}
+
+#locais5 { 
+    display: flex;
+    padding-top: 50px;
+    line-height: 40px;
+    font-size: 20px;
+    justify-content: space-between;
+    padding-left: 20px;
+    padding-right: 90px;
+    padding-bottom: 40px;
+}
+
+#locais6 { 
+    display: flex;
+    padding-top: 50px;
+    line-height: 40px;
+    font-size: 20px;
+    justify-content: space-between;
+    padding-left: 20px;
+    padding-bottom: 40px;
+    padding-right: 70px;
+}
+
+#locais7 { 
+    display: flex;
+    padding-top: 50px;
+    line-height: 40px;
+    font-size: 20px;
+    justify-content: space-between;
+    padding-left: 20px;
+    padding-bottom: 40px;
+    padding-right: 20px;
+}
+
+#locais8 { 
+    display: flex;
+    padding-top: 50px;
+    line-height: 40px;
+    font-size: 20px;
+    justify-content: space-between;
+    padding-left: 20px;
+    padding-bottom: 40px;
+}
+
+#locais9 { 
+    display: flex;
+    padding-top: 50px;
+    line-height: 40px;
+    font-size: 20px;
+    justify-content: space-between;
+    padding-left: 20px;
+    padding-bottom: 100px;
+    padding-right: 60px;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.footer {
+    background-color: rgba(90, 45, 130);
+    display: flex;
+    align-items: center;
+    padding-left: 30px ;
+    padding-right: 20px;
+    justify-content: space-between;
+}
+    
+a:hover {
+        color: rgb(184, 134, 218);
+}
+    
+a {
+        text-decoration: none;
+        color: white;
+}
+    
+.linksfooter {
+    display: flex;
+    gap: 40px;
+    font-size: 19px;
+    color:rgb(255, 255, 255);
+}
+    
+#imgfooter {
+    max-width: 80px;
+    padding-left: 600px;
+}
